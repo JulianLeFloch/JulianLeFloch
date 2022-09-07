@@ -13,7 +13,7 @@
 
 
 ## About me   
-<table><tr><td valign="top" width="50%" margin-top="100px">
+<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on my first android app
 
