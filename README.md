@@ -1,4 +1,4 @@
-## I'm Julian, an engineer student at ESEO Angers 💻  
+## Hello I'm Julian, an engineer student at ESEO Angers 💻  
   
 
 <a href="https://github.com/https://github.com/JulianLeFloch" target="_blank">
@@ -12,7 +12,7 @@
 <br/>  
 
 
-## Rapidfire  
+## About me   
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on my first android app
@@ -39,7 +39,7 @@
 <br/>  
 
 
-## Languages and Tools  
+## SkillSet 
 
 
 ### FrontEnd  
@@ -95,7 +95,7 @@
 <br/>  
 
 
-## Github Stats  
+## My Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=JulianLeFloch&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
