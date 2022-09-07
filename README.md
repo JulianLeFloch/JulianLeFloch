@@ -39,7 +39,7 @@
 <br/>  
 
 
-## SkillSet 
+## My skill set 
 
 
 ### FrontEnd  
