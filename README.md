@@ -15,16 +15,16 @@
 ## About me   
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on my first android app
+- 🔭 I’m currently working on my first symfony app
 
   
-- 🌱 I’m currently learning Android development  
+- 🌱 I’m currently learning symfony and salesforce development  
   
 
 - ❓ Ask me about anything related to cars 🚙  
   
 
-- ⚡ Fun fact: I love use Css basic without framework   
+- ⚡ Fun fact: I love use basic css without framework   
 
 
 </td><td valign="top" width="50%">
