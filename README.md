@@ -15,18 +15,14 @@
 ## About me   
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on my first symfony app
+- 🔭 I’m currently working as an Analyst Developer level 2 at TRATON Financial Services France
 
   
-- 🌱 I’m currently learning symfony and salesforce development  
+- 🌱 I’m currently learning IOS development and re learn Java and React
   
 
 - ❓ Ask me about anything related to cars 🚙  
-  
-
-- ⚡ Fun fact: I love use basic css without framework   
-
-
+   
 </td><td valign="top" width="50%">
 
 <div align="right">
